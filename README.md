@@ -14,25 +14,25 @@
 _Timetable with sessions and material is being continuously updated._
 
 ### Wednesday
-**30th January**
+**3rd April**
 
 | **Time** | **Topic** | **Slides** | **Exercises** |
 | -------- | --------- | ---------  | -----------   |
-| 09:00    |  |  |  | 
-| 09:15    |  | [placeholder][placeholder-html] | | 
+| 09:00    | Ülesseadmine |  |  | 
+| 09:15    | Sissejuhatus, Linuxi haldamine | [placeholder][placeholder-html] | | 
 | 09:45    |  |  |  | 
 | 10:20    |  |  |  | 
 | 10:40    |  |  |  | 
-| 12:00    |  |  |  | 
-| 13:30    |  |  |  | 
+| 12:00    | Lõuna |  |  | 
+| 13:30    |  | tere henry saar |  | 
 | 15:15    |  |  |  | 
 | 15:35    |  |  |  | 
 | 17:00    |  |  |  | 
 
-[placeholder-html]:     https://ooobik.github.io/ubuntu-training/placeholder.html
+[placeholder-html]:     https://ooobik.github.io/ubuntu-training/html/placeholder.html
 
 ### Thursday
-**31th January**
+**4th April**
 
 | **Time** | **Topic**  | **Slides** | **Exercises** |
 | -------- | ---------  | ---------  | ------------- |
@@ -40,8 +40,8 @@ _Timetable with sessions and material is being continuously updated._
 | 09:15    |   |  |  |
 | 10:45    |   |  |  |
 | 11:00    |   |  |  |
-| 12:00    |   |  |  |
-| 13:00    |   |  |  |
+| 12:00    | Lõuna  |  |  |
+| 13:00    |  |  |  |
 | 13:30    |   |  |  |
 | 14:30    |   |  |  |
 | 15:15    |   |  |  |
