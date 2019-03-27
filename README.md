@@ -24,7 +24,7 @@ _Timetable with sessions and material is being continuously updated._
 | 10:20    |  |  |  | 
 | 10:40    |  |  |  | 
 | 12:00    | Lõuna |  |  | 
-| 13:30    |  | tere henry saar |  | 
+| 13:30    |  |  |  | 
 | 15:15    |  |  |  | 
 | 15:35    |  |  |  | 
 | 17:00    |  |  |  | 
