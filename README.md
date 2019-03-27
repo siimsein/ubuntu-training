@@ -29,7 +29,7 @@ _Timetable with sessions and material is being continuously updated._
 | 15:35    |  |  |  | 
 | 17:00    |  |  |  | 
 
-[placeholder]:     https://ooobik.github.io/ubuntu-training/placeholder.html
+[placeholder-html]:     https://ooobik.github.io/ubuntu-training/placeholder.html
 
 ### Thursday
 **31th January**
