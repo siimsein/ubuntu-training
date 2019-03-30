@@ -19,7 +19,7 @@ _Timetable with sessions and material is being continuously updated._
 | **Time** | **Topic** | **Slides** | **Exercises** |
 | -------- | --------- | ---------  | -----------   |
 | 09:00    | Ülesseadmine |  |  | 
-| 09:15    | Sissejuhatus, Linuxi haldamine | [placeholder][placeholder-html] | | 
+| 09:15    | Sissejuhatus, Linuxi haldamine | [intro][intro-html] | | 
 | 09:45    |  |  |  | 
 | 10:20    |  |  |  | 
 | 10:40    |  |  |  | 
@@ -29,7 +29,7 @@ _Timetable with sessions and material is being continuously updated._
 | 15:35    |  |  |  | 
 | 17:00    |  |  |  | 
 
-[placeholder-html]:     https://ooobik.github.io/ubuntu-training/html/placeholder.html
+[intro-html]:     https://ooobik.github.io/ubuntu-training/html/intro.html
 
 ### Thursday
 **4th April**
