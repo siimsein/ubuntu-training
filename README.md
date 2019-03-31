@@ -18,10 +18,10 @@ _Timetable with sessions and material is being continuously updated._
 
 | **Time** | **Topic** | **Slides** | **Exercises** |
 | -------- | --------- | ---------  | -----------   |
-| 09:00    | Ülesseadmine |  |  | 
-| 09:15    | Sissejuhatus, Linuxi haldamine | [intro][intro-html] | | 
-| 09:45    |  |  |  | 
-| 10:20    |  |  |  | 
+| 09:00    | Ülesseadmine ja paikasättimine |   |   | 
+| 09:15    | Sissejuhatus | [intro][intro-html] | | 
+| 09:30    | Distributsioonid |  |  | 
+| 10:20    | Ubuntu install |  |  | 
 | 10:40    |  |  |  | 
 | 12:00    | Lõuna |  |  | 
 | 13:30    |  |  |  | 
