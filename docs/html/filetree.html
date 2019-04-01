@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome and Introduction</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="../static/style.css">
+  </head>
+  <body>
+    <textarea id="source">
+layout: true
+class: inverse, middle, large
+
+---
+
+# Linux failipuu
+
+---
+
+# Windows
+* Iga partitsioon asub omaette "kettal" 
+* C:\, D:\
+* Süsteemsed failid asuvad C:\System kaustas
+
+---
+# Linux
+
+Failid linuxis asuvad ühe "kataloogipuu" sees
+
+Puu juureks on kaust '/' 
+* root (mitte segi ajada root kasutajaga)
+* filesystem root
+* juurikas
+
+---
+
+# Linux
+
+Lisades partitsioone linuxis, ei tekita me uusi juuri failipuule
+
+Partitsioonide või ketaste monteerimisel peame looma kataloogi, kus uus failisüsteem asuma hakkab
+
+Kõige laialdasem kasutus sellele on /home kaustade eraldi partitsioonil hoidmine.
+
+---
+Monteeritud failisüsteemide jälgimine
+
+* df [-h]
+* mount
+* /etc/mtab
+
+
+---
+
+# df
+
+ubuntu@ubuntu:~/ df -h
+
+Filesystem      Size  Used Avail Use% Mounted on
+
+dev             7.8G     0  7.8G   0% /dev
+
+/dev/sda5        28G   26G  163M 100% /
+
+/dev/sda7        96G   86G  5.1G  95% /home
+
+/dev/sda2        96M   67M   30M  70% /boot
+
+  
+---
+
+# /
+
+* bin - Vajalikud binaarid (programmid)
+* boot - Failid OSi käivitamiseks
+* dev - (devices), füüsilised seadmed
+* etc - Konfiguratsioonifailid
+* home - Kodukaustad
+* lib - Teegid, (Library)
+* lib64 - 64 bitised teegid
+* mnt - Tavaliselt tühi, kaust kuhu monteeritakse andmekandjaid
+
+---
+# /
+
+* opt - Tavaliselt tühi, kaust kuhu enda muu tarkvara pannakse
+* proc - Kerneli ja protsesside failid
+* root - root kasutaja kodukaust
+* run - Protsessifailid
+* sbin - Süsteemselt vajalikud binaarid
+* srv - Teenuste andmed, (/srv/http)
+* sys - Kerneli failid
+* tmp - Ajutine, sarnane %AppData% kaustaga windowsis
+* usr - Kasutaja binaarid ja teegid, (/usr/bin, /usr/lib)
+* var - Protssesside failid. NB! read-write
+
+
+
+    </textarea>
+    <script src="../static/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
