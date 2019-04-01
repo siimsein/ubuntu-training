@@ -11,7 +11,24 @@
 
 _Ajakava võib muutuda vastavalt tempole_
 
-[comment]: <> (TODO: vaata ajakava paremini üle)
+## TODO:
+vaata ajakava paremini üle
+systemctl
+cryptsetup
+scripting
+backups
+versioning
+peripherals
+monitoring
+killing jobs
+resource management
+remote access
+cron
+setting up services
+daemons
+common mistakes /*, / ./* ./
+basic security
+
 
 ### Kolmapäev
 **3rd Aprill**
