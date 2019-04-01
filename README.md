@@ -13,6 +13,8 @@
 
 _Ajakava võib muutuda vastavalt tempole_
 
+[comment]: <> (TODO: vaata ajakava paremini üle, failipuu slaidid)
+
 ### Kolmapäev
 **3rd Aprill**
 

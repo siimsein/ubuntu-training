@@ -66,7 +66,7 @@ CTRL-X (terminali alumises osas on näha nano käsud, `^C EXIT` väljumiseks).
 Edasi küsitakse kas (muudetud) fail salvestada? `Y`
 Ning kinnitame failinime `ENTER / RETURN` klahviga
 
-Lühidalt - CTRL-X, Y, ENTER
+**Lühidalt - CTRL-X, Y, ENTER**
 
 
 ---
@@ -75,13 +75,13 @@ _vi/vim (Käsud on identsed, edasipidi kasutan viitamiseks `vim`)_
 
 
 Esmalt peame teadma, vim'il on kaks erinevat režiimi, milleks on redigeerimine ja käsurežiim. Vimi käivitamisel avatakse vim
-alati käsureziimil. Seega, et üldse faili kirjutame läheme kirjutamisreziimi tähega `i` (insert). Näeme alumises osas kirja `-- INSERT --` 
+alati käsureziimil. Seega, et üldse faili kirjutada saaks läheme kirjutamisreziimi tähega `i` (insert). Nüüd Näeme alumises osas kirja `-- INSERT --` 
 ning oleme valmis muutma faili sisu. 
 
 Faili salvestamiseks väljume kirjutamisrežiimist klahviga `ESC`. Edasi faili salvestamiseks kirjutame `:` - all näeme nüüd vimi enda
 shelli `:` ning sinna sisestame `wq` (write, quit). `Enter` klahviga edastame käsu
 
-Lühidalt - ESC :wq
+**Lühidalt - ESC :wq**
 
 ## Harjutus
 
