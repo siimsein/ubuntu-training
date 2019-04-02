@@ -11,27 +11,9 @@
 
 _Ajakava võib muutuda vastavalt tempole_
 
-## TODO:
-vaata ajakava paremini üle
-systemctl
-cryptsetup
-scripting
-backups
-versioning
-peripherals
-monitoring
-killing jobs
-resource management
-remote access
-cron
-setting up services
-daemons
-common mistakes /*, / ./* ./
-basic security
-
 
 ### Kolmapäev
-**3rd Aprill**
+**3. Aprill**
 
 | **Kellaaeg** | **Teema** | **Materjalid** |
 | -------- | --------- | ---------  | 
@@ -56,7 +38,7 @@ basic security
 [perms-md]:     https://ooobik.github.io/ubuntu-training/markdown/perms.md
 
 ### Neljapäev
-**4th Aprill**
+**4. Aprill**
 
 | **Kellaaeg** | **Teema**  | **Materjalid** 
 | -------- | ---------  | ---------  
@@ -72,3 +54,20 @@ basic security
 | 15:00    | Kohvipaus |  | 
 | 17:00    |   |  | 
 
+## Lahtised teemad
+vaata ajakava paremini üle
+systemctl - services alla
+cryptsetup
+x scripting
+backups
+x versioning
+x peripherals
+x monitoring
+x killing jobs
+x resource management
+x remote access
+x cron
+x setting up services
+x daemons
+common mistakes /*, / ./* ./
+basic security
