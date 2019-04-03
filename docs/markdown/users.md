@@ -78,5 +78,18 @@ kasutajaga juku. Kui muudatus tehtud, salvesta fail - juhul kui faili tekib viga
 Sudoõiguste jagamisega tuleb hoolikalt läbi mõelda, kas on vaja ja kas tohiks. Sudo õigustega kasutaja omab täielikku kontrolli
 terve operatsioonisüsteemi üle.
 
+# näita kõigi kasutajate infot
+getent passwd
+
+# näita kindla kasutaja infot
+getent passwd <kasutajanimi>
+
+# näita, kes kuulub mingisse gruppi
+getent group <grupi nimetus>
+	
+# kustuta kasutaja
+sudo userdel -r <kasutajanimi>
+	
+# 
 
 
