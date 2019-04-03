@@ -49,6 +49,18 @@ mv <allikas> <sihtkoht> #(move)
 # Ümbernimetamine
 rename
 
+# > ja >> ja |
+> näiteks ls -la > fail.txt
+kirjutab ls -la käsu vastuse loodavasse faili "fail.txt"
+>> näiteks date >> fail.txt
+kirjutab kuupäeva lisaks eelmise käsu infole faili "fail.txt"
+| näiteks ls --help | grep human
+otsib välja ls'i help tekstist välja "human" sisaldava kraami
+
+# word count
+ls -laR > ls_suur ---teeb käsu tulemi uue faili sisse
+wc -l ls_suur ---näitab word counti ls_suur.txt failis
+
 ```
 
 ## Failide redigeerimine
