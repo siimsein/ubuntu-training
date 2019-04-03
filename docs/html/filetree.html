@@ -31,6 +31,8 @@ Puu juureks on kaust '/'
 * filesystem root
 * juurikas
 
+Oluline ka teada, et Windowsis on kaustanimede eraldajaks \ , linuxis /
+
 ---
 
 # Linux
@@ -93,7 +95,62 @@ dev             7.8G     0  7.8G   0% /dev
 * usr - Kasutaja binaarid ja teegid, (/usr/bin, /usr/lib)
 * var - Protssesside failid. NB! read-write
 
+---
+# Suhteline ja absoluutne kaustaviit (path)
 
+Iga terminalisessioon algab kodukaustast
+* /home/ubuntu
+
+Kuidas viitame failile foo.txt?
+
+---
+
+# Suhteline ja absoluutne kaustaviit (path)
+
+Oletame et pwd = /home/ubuntu
+
+Saame viidata failile foo.txt kahte moodi
+* Absoluutse viitega - /home/ubuntu/foo.txt (algab alati kaldkriipsuga)
+* Suhtelise viitega ./foo.txt
+
+---
+# Suhtelised viited
+
+Suhteliste viidete puhul alustatakse otsimis alati töökaustast
+* . tähistab hetkelist töökausta
+* .. tähistab ülemkataloogi
+* ~ tähistab kasutaja kodukataloogi
+
+---
+
+# Suhtelised viited
+
+Tavaliselt jäetakse ära töökausta viide ./
+
+Kui soovime käivitada töökaustas oleva scripti, siis peab see viide olemas olema
+
+Näide
+* pwd = /home/ubuntu/testdir/kaust2/
+* fail = /home/ubuntu/uuskaust/foo.txt
+
+nano ../uuskaust/foo.txt
+nano ~/uuskaust/foo.txt
+nano /home/ubuntu/uuskaust/foo.txt
+
+---
+
+# Suhtelised viited
+
+Suhtelised viited kehtivad ka absoluutsete viidete puhul
+
+Tihti näeb seda siis, kui scriptid või programmid otsivad viiteid
+* /srv/www/http/../../../var/spool/file
+* Path lühendatakse :/var/spool/file
+* Topeltkaldkriipse tavaliselt eiratakse
+
+---
+
+# Küsimusi?
 
     </textarea>
     <script src="../static/remark-latest.min.js">
