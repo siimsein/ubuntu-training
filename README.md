@@ -32,7 +32,7 @@ _Ajakava võib muutuda vastavalt tempole_
 [intro-html]:     https://ooobik.github.io/ubuntu-training/html/intro.html
 [distros-html]:     https://ooobik.github.io/ubuntu-training/html/distros.html
 [filetree-html]:     https://ooobik.github.io/ubuntu-training/html/filetree.html
-[ubuntu-md]:     https://ooobik.github.io/ubuntu-training/markdown/ubuntu-install.md
+[ubuntu-md]:     https://ooobik.github.io/ubuntu-training/markdown/ubuntu-install.html
 [bash-md]:     https://ooobik.github.io/ubuntu-training/markdown/bash.md
 [users-md]:     https://ooobik.github.io/ubuntu-training/markdown/users.md
 [perms-md]:     https://ooobik.github.io/ubuntu-training/markdown/perms.md
