@@ -21,5 +21,22 @@ populaarsemat keelt - bash ja python.
 
 ##Python
 
+Kuigi python olemuslikult ei ole päris scriptimiskeelena mõeldud, on ta piisavalt lihtne, kerge ja võimas, et linuxis
+täita scriptimiskeele rolli. Kuigi süsteemsete binaaride jooksutamine on pythonis keerulisem, pakub python täieliku turning-complete keele rolli 
+scriptimises. Bashi puudusteks võrreldes pythoniga on raamatukogu (dictionary) andmetüübi puudus, lugemise lihtsus,
+teksti manipulatsioonivõimekus, ja üleüldine loogika. 
+
+Pythonis saame süsteemseid binaare kutsuda lisateegiga `subprocess`.
+
+```
+#!/bin/env python3
+
+import subprocess
+
+subprocess.call(["adduser", "-g", "1001", "-m", "juku" ])
+
+```
+
+Pythoni võimekus scriptimises on ka peidus pythoni lisapaketis `shutils`, mille dokumentatsiooni leiab TODO
 
 

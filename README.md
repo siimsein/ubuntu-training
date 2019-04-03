@@ -19,7 +19,7 @@ _Ajakava võib muutuda vastavalt tempole_
 | -------- | --------- | ---------  | 
 | 09:00    | Sissejuhatus           | [Slaidid][intro-html]                          | 
 | 09:15    | Distributsioonid       | [Slaidid][distros-html]                        | 
-| 09:30    | Ubuntu paigaldamine    | [Ubuntu paigaldamise harjutus]  [ubuntu-md]    | 
+| 09:30    | Ubuntu paigaldamine    | [Ubuntu paigaldamise harjutus][ubuntu-md]    | 
 | 11.00    | Kohvipaus              |                                                | 
 | 11.15    | Failid                 | [Failipuu slaidid][filetree-html]              | 
 | 11:40    | Käsurida               | [Sissejuhatus käsureale][bash-md]              | 
