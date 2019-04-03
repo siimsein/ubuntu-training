@@ -46,6 +46,9 @@ cp <allikas> <sihtkoht> #(copy)
 # Liigutamine - toimib ka ümbernimetamiseks
 mv <allikas> <sihtkoht> #(move)
 
+# Ümbernimetamine
+rename
+
 ```
 
 ## Failide redigeerimine
